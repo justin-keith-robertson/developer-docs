@@ -15,6 +15,11 @@ toc:
   enable: true
 oasDefinitions:
   petstore: ./openapi/petstore.yaml
+  shipping: https://api.redocly.com/registry/bundle/auctane-uff/Carrier%20API/v1/openapi.yaml?branch=main
+  freight: https://api.redocly.com/registry/bundle/auctane-uff/Freight%20API/V1/openapi.yaml?branch=main
+  inventory: https://api.redocly.com/registry/bundle/auctane-uff/Native%20Raiting%20API/V1/openapi.yaml?branch=main
+  native-rating: https://api.redocly.com/registry/bundle/auctane-uff/Native%20Raiting%20API/V1/openapi.yaml?branch=main
+
   # add links to definitions in our API registry by using a fully qualified URL.
 stylesheets:
   - https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700&display=swap
@@ -27,8 +32,8 @@ stylesheets:
 #  - ./static/intercom.js
 nav:
 
-  - label: Training exercises
-    page: developer-portal/index.md
+  - label: API's
+    page: apis/index.mdx
 
   - search: true
 

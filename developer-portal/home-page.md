@@ -47,7 +47,7 @@ Let's change the Jumbotron text within the H1 and H2 header components.
 <Jumbotron>
   <NavBar location={props.location} standalone={false} />
   <H1>Auctane Connect</H1>
-  <H2>A starter developer portal with training exercises</H2>
+  <H2>Build, Test, Deploy</H2>
 ```
 
 Next, let's change the buttons.

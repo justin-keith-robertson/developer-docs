@@ -4,12 +4,8 @@ title: F.A.Q.
 
 # Frequently asked questions
 
-## How much does it cost?
+## Commonly asked question
+long answer
 
-https://preview.redoc.ly/redocly/new-site/pricing
-
-
-## Can I do ______?
-
-Please contact us.
-
+## What languages are supported Connect?
+We currently only support TypeScript & JavaScript

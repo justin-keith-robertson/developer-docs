@@ -69,3 +69,21 @@ training:
 alternative:
   - page: developer-portal/sidebar-alternative.md
     label: Alternative sidebar example
+apis:
+  - page: apis/index.mdx
+  - group: Carrier API
+    expanded: false
+    pages:
+      - page: apis/shipping.page.yaml/*
+  - group: Freight API
+    expanded: false
+    pages:
+      - page: apis/freight.page.yaml/*
+  - group: Inventory API
+    expanded: false
+    pages:
+      - page: apis/inventory.page.yaml/*
+  - group: Native Rating API
+    expanded: false
+    pages:
+      - page: apis/native-rating.page.yaml/*
