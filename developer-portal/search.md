@@ -28,9 +28,6 @@ nav:
   - label: Training exercises
     page: developer-portal/index.md
 
-  - label: External docs
-    href: https://docs.redoc.ly/developer-portal/introduction/
-
   - search: true
 ```
 

@@ -1,5 +1,5 @@
 meta:
-  title: Redocly Training
+  title: Auctane Connect
   description: The best API documentation generator ever.
   siteUrl: https://developer-portal-starter.redoc.ly
   keywords: redocly developer portal, api portal starter, api reference docs
@@ -9,8 +9,8 @@ linkChecker:
   options:
     CheckExternal: false
 logo:
-  image: ./images/logo.png
-  altText: Redocly Training
+  image: ./images/logo.svg
+  altText: Auctane Connect
 toc:
   enable: true
 oasDefinitions:
@@ -29,10 +29,6 @@ nav:
 
   - label: Training exercises
     page: developer-portal/index.md
-
-  - label: External docs
-    icon: ./images/redocly-icon-white.png
-    href: https://redoc.ly/docs/developer-portal/introduction/
 
   - search: true
 
