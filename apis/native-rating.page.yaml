@@ -1,0 +1,8 @@
+type: reference-docs
+definitionId: shipping
+settings:
+  generateCodeSamples:
+    languages:
+      - lang: curl
+      - lang: JavaScript
+      - lang: TypeScript
