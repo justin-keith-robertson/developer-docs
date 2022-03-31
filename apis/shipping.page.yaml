@@ -4,5 +4,3 @@ settings:
   generateCodeSamples:
     languages:
       - lang: curl
-      - lang: JavaScript
-      - lang: TypeScript

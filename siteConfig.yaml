@@ -33,7 +33,7 @@ stylesheets:
 nav:
 
   - label: API's
-    page: apis/index.mdx
+    page: apis/index.md
 
   - search: true
 

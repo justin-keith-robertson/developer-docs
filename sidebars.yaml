@@ -70,7 +70,7 @@ alternative:
   - page: developer-portal/sidebar-alternative.md
     label: Alternative sidebar example
 apis:
-  - page: apis/index.mdx
+  - page: apis/index.md
   - group: Carrier API
     expanded: false
     pages:
